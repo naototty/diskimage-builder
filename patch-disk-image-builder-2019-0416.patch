@@ -1,0 +1,321 @@
+Binary files ./diskimage_builder/block_device/blockdevice.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/blockdevice.pyc differ
+Binary files ./diskimage_builder/block_device/cmd.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/cmd.pyc differ
+Binary files ./diskimage_builder/block_device/config.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/config.pyc differ
+Binary files ./diskimage_builder/block_device/exception.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/exception.pyc differ
+Binary files ./diskimage_builder/block_device/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/__init__.pyc differ
+Binary files ./diskimage_builder/block_device/level0/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level0/__init__.pyc differ
+Binary files ./diskimage_builder/block_device/level0/localloop.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level0/localloop.pyc differ
+Binary files ./diskimage_builder/block_device/level1/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level1/__init__.pyc differ
+Binary files ./diskimage_builder/block_device/level1/lvm.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level1/lvm.pyc differ
+Binary files ./diskimage_builder/block_device/level1/mbr.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level1/mbr.pyc differ
+Binary files ./diskimage_builder/block_device/level1/partitioning.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level1/partitioning.pyc differ
+Binary files ./diskimage_builder/block_device/level1/partition.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level1/partition.pyc differ
+Binary files ./diskimage_builder/block_device/level2/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level2/__init__.pyc differ
+Binary files ./diskimage_builder/block_device/level2/mkfs.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level2/mkfs.pyc differ
+Binary files ./diskimage_builder/block_device/level3/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level3/__init__.pyc differ
+Binary files ./diskimage_builder/block_device/level3/mount.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level3/mount.pyc differ
+Binary files ./diskimage_builder/block_device/level4/fstab.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level4/fstab.pyc differ
+Binary files ./diskimage_builder/block_device/level4/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/level4/__init__.pyc differ
+Binary files ./diskimage_builder/block_device/plugin.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/plugin.pyc differ
+Binary files ./diskimage_builder/block_device/tests/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/__init__.pyc differ
+Binary files ./diskimage_builder/block_device/tests/plugin/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/plugin/__init__.pyc differ
+Binary files ./diskimage_builder/block_device/tests/plugin/test_a.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/plugin/test_a.pyc differ
+Binary files ./diskimage_builder/block_device/tests/plugin/test_b.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/plugin/test_b.pyc differ
+Binary files ./diskimage_builder/block_device/tests/test_base.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/test_base.pyc differ
+Binary files ./diskimage_builder/block_device/tests/test_config.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/test_config.pyc differ
+Binary files ./diskimage_builder/block_device/tests/test_gpt.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/test_gpt.pyc differ
+Binary files ./diskimage_builder/block_device/tests/test_lvm.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/test_lvm.pyc differ
+Binary files ./diskimage_builder/block_device/tests/test_mbr.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/test_mbr.pyc differ
+Binary files ./diskimage_builder/block_device/tests/test_mkfs.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/test_mkfs.pyc differ
+Binary files ./diskimage_builder/block_device/tests/test_mount_order.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/test_mount_order.pyc differ
+Binary files ./diskimage_builder/block_device/tests/test_state.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/test_state.pyc differ
+Binary files ./diskimage_builder/block_device/tests/test_utils.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/tests/test_utils.pyc differ
+Binary files ./diskimage_builder/block_device/utils.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/block_device/utils.pyc differ
+Binary files ./diskimage_builder/disk_image_create.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/disk_image_create.pyc differ
+Binary files ./diskimage_builder/element_dependencies.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/element_dependencies.pyc differ
+Binary files ./diskimage_builder/elements/cache-url/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/elements/cache-url/__init__.pyc differ
+Binary files ./diskimage_builder/elements/cache-url/tests/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/elements/cache-url/tests/__init__.pyc differ
+Binary files ./diskimage_builder/elements/cache-url/tests/test_cache_url.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/elements/cache-url/tests/test_cache_url.pyc differ
+diff -uNr ./diskimage_builder/elements/debootstrap/install.d/10-debian-networking /usr/lib/python2.7/site-packages/diskimage_builder/elements/debootstrap/install.d/10-debian-networking
+--- ./diskimage_builder/elements/debootstrap/install.d/10-debian-networking	2019-03-11 21:38:44.547643973 +0900
++++ /usr/lib/python2.7/site-packages/diskimage_builder/elements/debootstrap/install.d/10-debian-networking	2019-03-08 11:15:50.000000000 +0900
+@@ -24,15 +24,21 @@
+ # It would be eversogreat if we didn't need to do crap like this
+ echo $DISTRO_NAME > /etc/hostname
+ 
+-# cloud images expect eth0 and eth1 to use dhcp.
+-mkdir -p /etc/network/interfaces.d
+-if ! grep -E -q '^source(|-directory) /etc/network/interfaces.d/\*' /etc/network/interfaces; then
+-    echo "source /etc/network/interfaces.d/*" >> /etc/network/interfaces
+-    echo 'Network configuration set to source /etc/network/interfaces.d/*'
+-fi
+-for interface in eth0 eth1; do
+-    cat << EOF | tee /etc/network/interfaces.d/$interface
++# If you want eth0 and eth1 created as DHCP based interfaces, enable
++# this.  You don't want this if systemd is going to call the
++# interfaces on the real system something else, or if you're using a
++# network-manager like cloud-init, glean or systemd-networkd that will
++# handle the interfaces dynamically.
++if [[ "${DIB_APT_MINIMAL_CREATE_INTERFACES:-1}" -eq "1" ]]; then
++    mkdir -p /etc/network/interfaces.d
++    if ! grep -E -q '^source(|-directory) /etc/network/interfaces.d/\*' /etc/network/interfaces; then
++        echo "source /etc/network/interfaces.d/*" >> /etc/network/interfaces
++        echo 'Network configuration set to source /etc/network/interfaces.d/*'
++    fi
++    for interface in eth0 eth1; do
++        cat << EOF | tee /etc/network/interfaces.d/$interface
+ auto $interface
+ iface $interface inet dhcp
+ EOF
+-done
++    done
++fi
+diff -uNr ./diskimage_builder/elements/debootstrap/README.rst /usr/lib/python2.7/site-packages/diskimage_builder/elements/debootstrap/README.rst
+--- ./diskimage_builder/elements/debootstrap/README.rst	2019-03-11 21:38:44.547643973 +0900
++++ /usr/lib/python2.7/site-packages/diskimage_builder/elements/debootstrap/README.rst	2019-03-08 11:15:50.000000000 +0900
+@@ -63,6 +63,14 @@
+ ``DIB_DEBIAN_USE_DEBOOTSTRAP_CACHE`` and ``DIB_DEBOOTSTRAP_EXTRA_ARGS``
+ please consult "README.rst" of the debootstrap element.
+ 
++----------
++Networking
++----------
++
++By default ``/etc/network/interfaces.d/eth[0|1]`` files will be
++created and enabled with DHCP networking.  If you do not wish this to
++be done, set ``DIB_APT_MINIMAL_CREATE_INTERFACES`` to ``0``.
++
+ -------------------
+ Note on ARM systems
+ -------------------
+diff -uNr ./diskimage_builder/elements/grub2/pkg-map /usr/lib/python2.7/site-packages/diskimage_builder/elements/grub2/pkg-map
+--- ./diskimage_builder/elements/grub2/pkg-map	2019-03-08 11:15:50.166175720 +0900
++++ /usr/lib/python2.7/site-packages/diskimage_builder/elements/grub2/pkg-map	2019-03-11 21:32:44.680021457 +0900
+@@ -1,4 +1,12 @@
+ {
++  "distro":{
++    "ubuntu":{
++      "signed_grub_efi": "",
++      "signed_shim_efi": "shim-signed",
++      "grub_bios": "grub-pc-bin",
++      "signed_grub_efi_arm64": "grub-efi-arm64",
++      "grub_bios_arm64": "grub-efi-arm64-bin"
++    },
+   "family":{
+     "debian":{
+       "signed_grub_efi": "grub-efi-amd64-signed",
+Binary files ./diskimage_builder/elements/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/elements/__init__.pyc differ
+diff -uNr ./diskimage_builder/elements/ironic-agent/package-installs.yaml /usr/lib/python2.7/site-packages/diskimage_builder/elements/ironic-agent/package-installs.yaml
+--- ./diskimage_builder/elements/ironic-agent/package-installs.yaml	2019-03-08 11:15:50.168175729 +0900
++++ /usr/lib/python2.7/site-packages/diskimage_builder/elements/ironic-agent/package-installs.yaml	2019-03-27 21:20:37.078452173 +0900
+@@ -17,3 +17,4 @@
+ kmod:
+ psmisc:
+ dosfstools:
++mdadm:
+diff -uNr ./diskimage_builder/elements/ironic-agent/post-install.d/80-ironic-agent /usr/lib/python2.7/site-packages/diskimage_builder/elements/ironic-agent/post-install.d/80-ironic-agent
+--- ./diskimage_builder/elements/ironic-agent/post-install.d/80-ironic-agent	2019-03-08 11:15:50.169175733 +0900
++++ /usr/lib/python2.7/site-packages/diskimage_builder/elements/ironic-agent/post-install.d/80-ironic-agent	2019-03-27 20:15:03.205307788 +0900
+@@ -23,6 +23,9 @@
+         if [[ $(systemctl --no-pager list-unit-files iptables) =~ 'enabled' ]]; then
+             systemctl disable iptables.service
+         fi
++        ## gmo added
++        systemctl enable dhclient.service
++        ##
+         systemctl enable $(svc-map ironic-python-agent).service
+         systemctl enable ironic-agent-create-rescue-user.path
+         ;;
+diff -uNr ./diskimage_builder/elements/ironic-agent/source-repository-ironic-agent /usr/lib/python2.7/site-packages/diskimage_builder/elements/ironic-agent/source-repository-ironic-agent
+--- ./diskimage_builder/elements/ironic-agent/source-repository-ironic-agent	2019-03-08 11:15:50.169175733 +0900
++++ /usr/lib/python2.7/site-packages/diskimage_builder/elements/ironic-agent/source-repository-ironic-agent	2019-03-26 23:14:09.967127036 +0900
+@@ -1 +1 @@
+-ironic-agent git /usr/share/ironic-python-agent https://git.openstack.org/openstack/ironic-python-agent
++ironic-agent git /usr/share/ironic-python-agent https://github.com/naototty/ironic-python-agent
+diff -uNr ./diskimage_builder/elements/ironic-agent/static/etc/systemd/system/dhclient.service /usr/lib/python2.7/site-packages/diskimage_builder/elements/ironic-agent/static/etc/systemd/system/dhclient.service
+--- ./diskimage_builder/elements/ironic-agent/static/etc/systemd/system/dhclient.service	1970-01-01 09:00:00.000000000 +0900
++++ /usr/lib/python2.7/site-packages/diskimage_builder/elements/ironic-agent/static/etc/systemd/system/dhclient.service	2019-03-27 21:07:34.301846227 +0900
+@@ -0,0 +1,23 @@
++[Unit]
++Description=DHCP interface
++# We want to run after network.target so it doesn't try to bring
++# up the interfaces a second time, but network-online should not
++# be reached until after we've brought up the interfaces.
++# We also need to break the default dependencies which prevents
++# this from operating on Ubuntu/Debian as the unit gets stuck
++# into a cyclical dependency loop.
++DefaultDependencies=no
++## After=network.target
++## Before=network-online.target
++## Wants=network-online.target
++
++[Service]
++Type=oneshot
++User=root
++ExecStartPre=/bin/sleep 40
++ExecStart=/usr/sbin/dhclient eth0
++RemainAfterExit=true
++TimeoutStartSec=100s
++
++[Install]
++WantedBy=multi-user.target
+diff -uNr ./diskimage_builder/elements/ironic-agent/static/usr/local/sbin/dhcp-bootif-interfaces.sh /usr/lib/python2.7/site-packages/diskimage_builder/elements/ironic-agent/static/usr/local/sbin/dhcp-bootif-interfaces.sh
+--- ./diskimage_builder/elements/ironic-agent/static/usr/local/sbin/dhcp-bootif-interfaces.sh	1970-01-01 09:00:00.000000000 +0900
++++ /usr/lib/python2.7/site-packages/diskimage_builder/elements/ironic-agent/static/usr/local/sbin/dhcp-bootif-interfaces.sh	2019-03-27 19:08:17.508829479 +0900
+@@ -0,0 +1,139 @@
++#!/bin/bash
++
++if [ ${DIB_DEBUG_TRACE:-0} -gt 0 ]; then
++    set -x
++fi
++set -eu
++set -o pipefail
++
++## INTERFACE=${1:-} #optional, if not specified configure all available interfaces
++ENI_FILE="/etc/network/interfaces"
++
++PATH=/sbin:$PATH
++
++BOOTIF_MAC=`(for acmd in $(cat /proc/cmdline);do echo $acmd | grep BOOT;done) | cut -d'=' -f2`
++
++echo ${BOOTIF_MAC} > /tmp/bootif-mac
++
++# grep ac:1f:6b:41:d3:1e  /sys/class/net/*/address
++# /sys/class/net/eth0/address:ac:1f:6b:41:d3:1e
++
++# grep ac:1f:6b:41:d3:1e  /sys/class/net/*/address | sed -e 's/\/sys\/class\/net\///g' | cut -d'/' -f1
++# eth0
++
++BOOTIF=$(grep ${BOOTIF_MAC} /sys/class/net/*/address | sed -e 's/\/sys\/class\/net\///g' | cut -d'/' -f1)
++
++echo ${BOOTIF} > /tmp/bootif
++
++INTERFACE=${BOOTIF}
++
++
++if [ -d "/etc/network" ]; then
++    CONF_TYPE="eni"
++elif [ -d "/etc/sysconfig/network-scripts/" ]; then
++    CONF_TYPE="rhel-netscripts"
++    SCRIPTS_PATH="/etc/sysconfig/network-scripts/"
++elif [ -d "/etc/sysconfig/network/" ]; then
++    # SUSE network scripts location
++    CONF_TYPE="suse-netscripts"
++    SCRIPTS_PATH="/etc/sysconfig/network/"
++else
++    echo "Unsupported network configuration type!"
++    exit 1
++fi
++
++ARGS="$0 $@"
++
++function serialize_me() {
++    if [ "$CONF_TYPE" == "eni" ]; then
++        # Serialize runs so that we don't miss hot-add interfaces
++        FLOCKED=${FLOCKED:-}
++        if [ -z "$FLOCKED" ] ; then
++            FLOCKED=true exec flock -x $ENI_FILE $ARGS
++        fi
++    fi
++}
++
++function get_if_link() {
++    cat /sys/class/net/${1}/carrier || echo 0
++}
++
++function get_if_type() {
++    cat /sys/class/net/${1}/type
++}
++
++function enable_interface() {
++    local interface=$1
++
++    serialize_me
++    if [ "$CONF_TYPE" == "eni" ]; then
++        printf "auto $interface\niface $interface inet dhcp\n\n" >>$ENI_FILE
++    elif [ "$CONF_TYPE" == "rhel-netscripts" ]; then
++        if [ "$(get_if_type $interface)" == "32" ]; then
++            printf "DEVICE=\"$interface\"\nBOOTPROTO=\"dhcp\"\nONBOOT=\"yes\"\nTYPE=\"InfiniBand\"\nCONNECTED_MODE=\"no\"\nDEFROUTE=\"yes\"\nPEERDNS=\"yes\"\nPEERROUTES=\"yes\"\nIPV4_FAILURE_FATAL=\"yes\"\nIPV6INIT=\"no\"" >"${SCRIPTS_PATH}ifcfg-$interface"
++        else
++            printf "DEVICE=\"$interface\"\nBOOTPROTO=\"dhcp\"\nONBOOT=\"yes\"\nTYPE=\"Ethernet\"" >"${SCRIPTS_PATH}ifcfg-$interface"
++    fi
++    elif [ "$CONF_TYPE" == "suse-netscripts" ]; then
++        printf "BOOTPROTO=\"dhcp\"\nSTARTMODE=\"auto\"" >"${SCRIPTS_PATH}ifcfg-$interface"
++    fi
++    echo "Configured $1"
++
++}
++
++
++function config_exists() {
++    local interface=$1
++    if [[ "$CONF_TYPE" =~ "netscripts" ]]; then
++        if [ -f "${SCRIPTS_PATH}ifcfg-$interface" ]; then
++            return 0
++        fi
++    else
++        if ifquery $interface >/dev/null 2>&1; then
++            if [ -z "$(ifquery $interface 2>&1)" ]; then
++                return 1
++            else
++                return 0
++            fi
++        else
++            return 1
++        fi
++    fi
++    return 1
++}
++
++function inspect_interface() {
++    local interface=$1
++    local mac_addr_type
++    mac_addr_type=$(cat /sys/class/net/${interface}/addr_assign_type)
++
++    echo -n "Inspecting interface: $interface..."
++    if config_exists $interface; then
++        echo "Has config, skipping."
++    elif [ "$mac_addr_type" != "0" ]; then
++        echo "Device has generated MAC, skipping."
++    else
++        local has_link
++        local tries=30
++        for ((; tries > 0; tries--)); do
++            # Need to set the link up on each iteration
++            ip link set dev $interface up &>/dev/null
++            has_link=$(get_if_link $interface)
++            [ "$has_link" == "1" ] && break
++            sleep 1
++        done
++        if [ "$has_link" == "1" ]; then
++            enable_interface "$interface"
++        else
++            echo "No link detected, skipping"
++        fi
++    fi
++}
++
++if [ -n "$INTERFACE" ]; then
++    inspect_interface $INTERFACE
++else
++    for iface in $(ls /sys/class/net | grep -v ^lo$); do
++        inspect_interface $iface
++    done
++fi
+Binary files ./diskimage_builder/elements/package-installs/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/elements/package-installs/__init__.pyc differ
+Binary files ./diskimage_builder/elements/package-installs/tests/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/elements/package-installs/tests/__init__.pyc differ
+Binary files ./diskimage_builder/elements/package-installs/tests/test_package_squash.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/elements/package-installs/tests/test_package_squash.pyc differ
+Binary files ./diskimage_builder/elements/svc-map/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/elements/svc-map/__init__.pyc differ
+Binary files ./diskimage_builder/elements/svc-map/tests/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/elements/svc-map/tests/__init__.pyc differ
+Binary files ./diskimage_builder/elements/svc-map/tests/test_data_merge.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/elements/svc-map/tests/test_data_merge.pyc differ
+Binary files ./diskimage_builder/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/__init__.pyc differ
+Binary files ./diskimage_builder/lib/outfilter.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/lib/outfilter.pyc differ
+Binary files ./diskimage_builder/logging_config.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/logging_config.pyc differ
+Binary files ./diskimage_builder/paths.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/paths.pyc differ
+Binary files ./diskimage_builder/tests/base.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/tests/base.pyc differ
+Binary files ./diskimage_builder/tests/functional/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/tests/functional/__init__.pyc differ
+Binary files ./diskimage_builder/tests/__init__.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/tests/__init__.pyc differ
+Binary files ./diskimage_builder/tests/test_elementdeps.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/tests/test_elementdeps.pyc differ
+Binary files ./diskimage_builder/tests/test_loggingconfig.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/tests/test_loggingconfig.pyc differ
+Binary files ./diskimage_builder/tests/test_no_dup_filenames.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/tests/test_no_dup_filenames.pyc differ
+Binary files ./diskimage_builder/version.pyc and /usr/lib/python2.7/site-packages/diskimage_builder/version.pyc differ
