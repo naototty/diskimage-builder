@@ -23,6 +23,9 @@ case "$DIB_INIT_SYSTEM" in
         if [[ $(systemctl --no-pager list-unit-files iptables) =~ 'enabled' ]]; then
             systemctl disable iptables.service
         fi
+        ## gmo added
+        systemctl enable dhclient.service
+        ##
         systemctl enable $(svc-map ironic-python-agent).service
         systemctl enable ironic-agent-create-rescue-user.path
         ;;
